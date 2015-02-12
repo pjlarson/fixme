@@ -239,10 +239,6 @@ public class WidgetMaker {
 
 
 
-// == vs equals
-    // switch with no break
-    // returning null on method returning a collection
-
 
     enum DoorType{
         FRONT,
